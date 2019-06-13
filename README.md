@@ -1,5 +1,5 @@
 # Txchangecoin Library
-A Txchangecoin library written in PHP by the [Monero Integrations](https://monerointegrations.com) [team](https://github.com/txchangecoin-integrations/txchangecoinphp/graphs/contributors).
+A Txchangecoin library written in PHP by the [TXX Integrations](https://monerointegrations.com) [team](https://github.com/txchangecoin-integrations/txchangecoinphp/graphs/contributors).
 
 ## How It Works
 This library has 3 main parts:
